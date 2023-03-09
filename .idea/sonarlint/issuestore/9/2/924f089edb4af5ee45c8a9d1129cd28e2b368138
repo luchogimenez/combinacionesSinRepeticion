@@ -1,0 +1,30 @@
+
+r
+java:S1488^"\Immediately return this expression instead of assigning it to the temporary variable "cant".(¸½þˆ
+0
+java:S1220""Move this file to a named package.
+L
+java:S3655c"7Call "Optional#isPresent()" before accessing the value.(ÀÂ›`
+V	java:S125"<This block of commented-out lines of code should be removed.(£ˆ¨ÿÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(‘î•¯ýÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(’Á›Ù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÞÏ¥ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦Ø²Žýÿÿÿÿ
+B
+java:S1602",Remove useless curly braces around statement(¦íý„
+\
+java:S1612"FReplace this lambda with method reference 'Main::combinationsDomains'.(¦íý„
+7
+java:S2326'"i is not used in the method.(…¨´÷üÿÿÿÿ
+c	java:S119'"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(…¨´÷üÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(›úŸƒúÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(¨ãéúÿÿÿÿ
+>	java:S1080")Either remove or fill this block of code.(öŽ¹í
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(©§Œ¨ÿÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ðŒÉ¢üÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(óŽãµ
+Q	java:S125M"<This block of commented-out lines of code should be removed.(ÅÎÀ
+Q
+java:S1612]"6Replace this lambda with method reference 'list::add'.(“£²’ÿÿÿÿÿ
